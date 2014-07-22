@@ -10,6 +10,7 @@ namespace Consoledemo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("asd");
         }
     }
 }
