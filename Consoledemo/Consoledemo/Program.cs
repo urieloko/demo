@@ -12,6 +12,7 @@ namespace Consoledemo
         {
             Console.WriteLine("asd");
             Console.ReadLine();
+            Console.WriteLine("asdsd");
         }
     }
 }
