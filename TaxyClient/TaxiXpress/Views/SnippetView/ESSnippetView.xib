@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="5056" systemVersion="13D65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3733"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="ESSnippetView">
+            <rect key="frame" x="0.0" y="0.0" width="90" height="80"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="snippetBody" translatesAutoresizingMaskIntoConstraints="NO" id="V9M-ZW-nvd">
+                    <rect key="frame" x="0.0" y="0.0" width="90" height="80"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                </imageView>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Hola" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Fd5-Ye-zQa">
+                    <rect key="frame" x="3" y="3" width="84" height="15"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="15" id="aIC-2w-zqS"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Mundo" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UZf-J7-Mlt">
+                    <rect key="frame" x="3" y="21" width="84" height="12"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="12" id="Cq8-8O-wOG"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="iOS" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Q0U-RD-Omq">
+                    <rect key="frame" x="3" y="36" width="84" height="12"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="12" id="GIN-82-WF8"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="snippetStar3" translatesAutoresizingMaskIntoConstraints="NO" id="j1K-NM-MXq">
+                    <rect key="frame" x="20" y="51" width="50" height="15"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="50" id="DUy-bD-cX9"/>
+                        <constraint firstAttribute="height" constant="15" id="EM7-pE-5wl"/>
+                    </constraints>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="Fd5-Ye-zQa" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="3" id="EkF-dM-yAl"/>
+                <constraint firstItem="V9M-ZW-nvd" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="FPF-hc-aLz"/>
+                <constraint firstItem="V9M-ZW-nvd" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="FYd-X0-w30"/>
+                <constraint firstItem="j1K-NM-MXq" firstAttribute="top" secondItem="Q0U-RD-Omq" secondAttribute="bottom" constant="3" id="FdN-Vn-a1E"/>
+                <constraint firstItem="Fd5-Ye-zQa" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="3" id="L8n-hT-YYY"/>
+                <constraint firstItem="Q0U-RD-Omq" firstAttribute="top" secondItem="UZf-J7-Mlt" secondAttribute="bottom" constant="3" id="OpN-aZ-EzX"/>
+                <constraint firstAttribute="bottom" secondItem="V9M-ZW-nvd" secondAttribute="bottom" id="R1z-ov-fyG"/>
+                <constraint firstAttribute="trailing" secondItem="V9M-ZW-nvd" secondAttribute="trailing" id="SQs-Me-keJ"/>
+                <constraint firstItem="UZf-J7-Mlt" firstAttribute="top" secondItem="Fd5-Ye-zQa" secondAttribute="bottom" constant="3" id="WWa-LW-yUa"/>
+                <constraint firstAttribute="trailing" secondItem="UZf-J7-Mlt" secondAttribute="trailing" constant="3" id="cis-ju-Yts"/>
+                <constraint firstAttribute="trailing" secondItem="Fd5-Ye-zQa" secondAttribute="trailing" constant="3" id="hbJ-7o-vyG"/>
+                <constraint firstAttribute="trailing" secondItem="Q0U-RD-Omq" secondAttribute="trailing" constant="3" id="lHb-YW-fYv"/>
+                <constraint firstItem="Q0U-RD-Omq" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="3" id="pgu-hO-B8J"/>
+                <constraint firstItem="UZf-J7-Mlt" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="3" id="rBF-9M-iEB"/>
+                <constraint firstAttribute="centerX" secondItem="j1K-NM-MXq" secondAttribute="centerX" id="rh0-gM-UMA"/>
+            </constraints>
+            <simulatedStatusBarMetrics key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="modeloLbl" destination="Q0U-RD-Omq" id="vxu-UM-yrc"/>
+                <outlet property="nombreLbl" destination="Fd5-Ye-zQa" id="RsL-7s-hCd"/>
+                <outlet property="placasLbl" destination="UZf-J7-Mlt" id="rtS-5i-Hch"/>
+                <outlet property="ratingImage" destination="j1K-NM-MXq" id="wxf-RH-cK3"/>
+            </connections>
+        </view>
+    </objects>
+    <resources>
+        <image name="snippetBody" width="90" height="90"/>
+        <image name="snippetStar3" width="50" height="15"/>
+    </resources>
+</document>

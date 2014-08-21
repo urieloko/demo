@@ -1,0 +1,82 @@
+/* 
+  Localizable.strings
+  TaxiXpress
+
+  Created by Erick Iglesias on 21/07/14.
+  Copyright (c) 2014 Extend Solutions. All rights reserved.
+*/
+
+"btn.tab.map" = "Map";
+"btn.tab.sites" = "Places";
+"btn.available.taxi" = "Available Taxis..";
+"btn.search.taxi" = "Looking Available Taxis..";
+"lbl.menu.home" = "Home";
+"lbl.menu.myprofile" = "My Profile";
+"lbl.menu.howitworks" = "How it works";
+"lbl.menu.logout" = "Logout";
+"lbl.home.pass" = "Password";
+"lbl.home.user" = "Username";
+"btn.home.login" = "Login";
+"btn.home.registra" = "Sign In";
+"btn.home.loginfg" = "Login With";
+"lbl.title.signin" = "Sign In";
+"lbl.title.signor" = "OR ...";
+"lbl.find.address" = "Locating Address...";
+"lbl.progress" = "Loading";
+"lbl.detail" = "Detail";
+"lbl.showmore" = "More";
+"lbl.ratings" = "Ratings";
+"btn.ask.taxi" = "Get a Taxi";
+"lbl.onboard" = "Services Onboard";
+"lbl.rate" = "Rate";
+"lbl.comment" = "Comments";
+"lbl.check.user" = "Please check your User";
+"lbl.check.password" = "Please check your Password";
+"lbl.accept" = "Accept";
+"Servicio Aceptable" = "acceptable service";
+"Tarifa Inicial" = "Initial Charge";
+"Calificar" = "Rate";
+"Omitir" = "Skip";
+"Ingresa un número específico" = "Set Street #";
+"lbl.about" = "Taxy © All Rights Reserved 2014";
+"lbl.cancel" = "Cancel";
+"lbl.confirm" = "Confirm";
+"lbl.welcome" = "Welcome:";
+"btn.inicia" = "Start Trip";
+"btn.cancel.trip" = "Cancel Service";
+"El taxista aceptó su solicitud" = "Your Taxi Accept the Service";
+"Cerrar" = "Close";
+"De" = "From:";
+"A" = "To:";
+"Recorrido" = "Distance:";
+"Monto" = "Amount:";
+"btn.continue" = "Accept";
+"El taxi ha llegado al punto de encuento" = "Your Taxi has Arrived";
+"Aviso" = "Notice";
+"Bienvenido a Taxy." ="Welcome to Taxy.";
+"¿Seguro que desea cancelar?" = "Are you sure you want to cancel?";
+"SI" = "YES";
+"NO" = "NO";
+"Su taxi llegará aproximadamente en: %@ minutos" ="Your Taxi will arrive in approximately: %@ minutes";
+"Estoy utilizando @Taxy, y me encanta http://taxy.extend.com.mx" = "I am using @Taxy, and I love it http://taxy.extend.com.mx";
+"Indique su ubicación y solicite el taxi deseado" ="Specify your location and request the desired Taxi";
+"Observe los taxis cercanos a su ubicación" ="Browse nearby taxis to your location";
+"Conozco el momento exacto en que el taxista arribo a su ubicacion" = "I know the exact moment when the driver arrived at my location";
+"Califique el servicio recibido por el taxista" = "Rate the service received by the driver";
+"Paso 1" = "Step 1";
+"Paso 2" = "Step 2";
+"Paso 3" = "Step 3";
+"Paso 4" = "Step 4";
+"Page1.png" = "Page1EN.png";
+"Page2.png" = "Page2EN.png";
+"Page3.png" = "Page3EN.png";
+"Page4.png" = "Page4EN.png";
+"Nombre" = "Name";
+"ApellidoPat" = "Last Name";
+"ApellidoMat" = "Second Last Name";
+"Correo" = "Mail";
+"Telefono" = "Telephone";
+"Contraseña" = "Password";
+"Confirma Contraseña" = "Confirm Password";
+"Ingresa tus Datos" = "Sign In:";
+"Registrar" = "Register";

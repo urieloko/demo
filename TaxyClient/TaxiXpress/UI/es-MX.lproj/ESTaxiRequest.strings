@@ -1,0 +1,24 @@
+
+/* Class = "IBUILabel"; text = "Powered by Foursquare"; ObjectID = "5cR-zl-MQA"; */
+"5cR-zl-MQA.text" = "Powered by Foursquare";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "E49-wC-Xr1"; */
+"E49-wC-Xr1.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Hola Mundo"; ObjectID = "G1M-gd-kCT"; */
+"G1M-gd-kCT.text" = "Hola Mundo";
+
+/* Class = "IBUIButton"; normalTitle = "Sitios Cercanos"; ObjectID = "V4t-gk-CAd"; */
+"V4t-gk-CAd.normalTitle" = "Sitios Cercanos";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "gmb-Ci-2Mh"; */
+"gmb-Ci-2Mh.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "ik1-1U-mJf"; */
+"ik1-1U-mJf.normalTitle" = "Button";
+
+/* Class = "IBUIButton"; normalTitle = "Mapa"; ObjectID = "xxN-JW-9Lb"; */
+"xxN-JW-9Lb.normalTitle" = "Mapa";
+
+/* Class = "IBUIButton"; selectedTitle = "Hola"; ObjectID = "xxN-JW-9Lb"; */
+"xxN-JW-9Lb.selectedTitle" = "Hola";

@@ -1,0 +1,82 @@
+/* 
+  Localizable.strings
+  TaxiXpress
+
+  Created by Erick Iglesias on 21/07/14.
+  Copyright (c) 2014 Extend Solutions. All rights reserved.
+*/
+
+"btn.tab.map" = "Mapa";
+"btn.tab.sites" = "Sitios Cercanos";
+"btn.available.taxi" = "Ver Taxis Disponibles";
+"btn.search.taxi" = "Buscando Taxis Disponibles..";
+"lbl.menu.home" = "Inicio";
+"lbl.menu.myprofile" = "Mi Perfil";
+"lbl.menu.howitworks" = "Ayuda";
+"lbl.menu.logout" = "Salir";
+"lbl.home.pass" = "Contraseña";
+"lbl.home.user" = "Usuario";
+"btn.home.login" = "Inicia Sesión";
+"btn.home.registra" = "Regístrate";
+"btn.home.loginfg" = "Inicia Sesión";
+"lbl.title.signin" = "Entra como Usuario";
+"lbl.title.signor" = "O bien...";
+"lbl.find.adress" = "Buscando dirección ...";
+"lbl.progress" = "Cargando";
+"lbl.detail" = "Detalle";
+"lbl.showmore" = "Ver Mas";
+"lbl.ratings" = "Calificación";
+"btn.ask.taxi" = "Pedir Taxi";
+"lbl.onboard" = "Servicios a Bordo";
+"lbl.rate" = "Califica el Servicio";
+"lbl.comment" = "Comentarios";
+"lbl.check.user" = "Favor de verificar tu Usuario";
+"lbl.check.password" = "Favor de verificar tu Contraseña";
+"lbl.accept" = "Aceptar";
+"Servicio Aceptable" = "Servicio Aceptable";
+"Tarifa Inicial" = "Tarifa Inicial";
+"Calificar" = "Rate";
+"Omitir" = "Omitir";
+"Ingresa un número específico" = "Ingresa un número específico";
+"lbl.about" = "Taxy © Derechos Reservados 2014";
+"lbl.cancel" = "Cancelar";
+"lbl.confirm" = "Confirmar";
+"lbl.welcome" = "Bienvenido a:";
+"btn.inicia" = "Iniciar Viaje";
+"btn.cancel.trip" = "Cancelar Viaje";
+"Cerrar" = "Cerrar";
+"El taxista aceptó su solicitud" = "El taxista aceptó su solicitud";
+"De" = "De:";
+"A" = "A:";
+"Recorrido" = "Recorrido:";
+"Monto" = "Monto:";
+"btn.continue" = "Continuar";
+"El taxi ha llegado al punto de encuento" = "El taxi ha llegado al punto de encuento";
+"Aviso" = "Aviso";
+"Bienvenido a Taxy." ="Bienvenido a Taxy.";
+"¿Seguro que desea cancelar?" = "¿Seguro que desea cancelar?";
+"SI" = "SI";
+"NO" = "NO";
+"Su taxi llegará aproximadamente en: %@ minutos" ="Su taxi llegará aproximadamente en: %@ minutos";
+"Estoy utilizando @Taxy, y me encanta http://taxy.extend.com.mx" = "Estoy utilizando @Taxy, y me encanta http://taxy.extend.com.mx";
+"Indique su ubicación y solicite el taxi deseado" ="Indique su ubicación y solicite el taxi deseado";
+"Observe los taxis cercanos a su ubicación" ="Observe los taxis cercanos a su ubicación";
+"Conozco el momento exacto en que el taxista arribo a su ubicacion" = "Conozco el momento exacto en que el taxista arribo a mi ubicacion";
+"Califique el servicio recibido por el taxista" = "Califique el servicio recibido por el taxista";
+"Paso 1" = "Paso 1";
+"Paso 2" = "Paso 2";
+"Paso 3" = "Paso 3";
+"Paso 4" = "Paso 4";
+"Page1.png" = "Page1.png";
+"Page2.png" = "Page2.png";
+"Page3.png" = "Page3.png";
+"Page4.png" = "Page4.png";
+"Nombre" = "Nombre";
+"ApellidoPat" = "Apellido Paterno";
+"ApellidoMat" = "Apellido Materno";
+"Correo" = "Correo";
+"Telefono" = "Teléfono";
+"Contraseña" = "Contraseña";
+"Confirma Contraseña" = "Confirma Contraseña";
+"Ingresa tus Datos" = "Ingresa tus Datos:";
+"Registrar" = "Registrar";
